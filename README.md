@@ -8,4 +8,4 @@ Todo desenvolvimento em aula será exposto no repositorio. Projetos avaliativos 
 ++Programação Estruturada
 +++Sequencia
 +++Seleção
-+++Interação
++++Iteração
