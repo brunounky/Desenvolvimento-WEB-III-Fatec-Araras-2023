@@ -52,3 +52,30 @@ def caixinha_magica2(parametro1, paramentro2):
 assert caixinha_magica2(10, 4) == 6
 assert caixinha_magica2(10, 5) == 5
 ### Depois disso pode ser feito a refatoração do código, ou seja, melhorar a forma como o mesmo está estruturado
+
+print('__________________________________')
+
+### String
+
+nome= 'Fatec Araras'
+nome= 'Fatec Araras 2'
+print(nome)
+print(id(nome))
+print(nome.upper())
+
+print('__________________________________')
+
+### Tipos de Sequência
+
+lista = []
+type(lista)
+
+lista.append('bacon') ###Inserir itens na lista
+
+###NAO TERMINEI NA AULA
+
+print('__________________________________')
+
+def caixinha_magica3(para1, para2):
+    return 0;
+
